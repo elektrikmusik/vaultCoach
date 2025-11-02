@@ -1,0 +1,1 @@
+{ "bad": "formatting", "test": 123, "nested": { "object": "with", "issues": true } }
