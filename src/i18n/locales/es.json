@@ -1,0 +1,71 @@
+{
+  "common": {
+    "appName": "SaaS Boilerplate",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "submit": "Enviar",
+    "search": "Buscar"
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Registrarse",
+    "signOut": "Cerrar Sesión",
+    "email": "Correo",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "name": "Nombre",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "resetPassword": "Restablecer Contraseña",
+    "sendResetLink": "Enviar Enlace de Restablecimiento",
+    "updatePassword": "Actualizar Contraseña",
+    "newPassword": "Nueva Contraseña",
+    "confirmNewPassword": "Confirmar Nueva Contraseña",
+    "magicLink": "Enlace Mágico",
+    "sendMagicLink": "Enviar Enlace Mágico",
+    "magicLinkSent": "¡Enlace mágico enviado! Por favor revisa tu correo y haz clic en el enlace para iniciar sesión.",
+    "passwordResetSent": "¡Correo de restablecimiento de contraseña enviado! Por favor revisa tu bandeja de entrada y sigue las instrucciones para restablecer tu contraseña.",
+    "emailConfirmationRequired": "Por favor revisa tu correo para confirmar tu cuenta antes de iniciar sesión.",
+    "resendConfirmation": "Reenviar Correo de Confirmación",
+    "orContinueWith": "O continúa con",
+    "signInWithMagicLink": "Iniciar sesión con enlace mágico",
+    "backToSignIn": "Volver a Iniciar Sesión",
+    "invalidResetToken": "Token de restablecimiento inválido o expirado. Por favor solicita un nuevo restablecimiento de contraseña.",
+    "enterNewPassword": "Ingresa tu nueva contraseña a continuación.",
+    "enterEmailForReset": "Ingresa tu dirección de correo y te enviaremos un enlace para restablecer tu contraseña.",
+    "enterEmailForMagicLink": "Ingresa tu dirección de correo y te enviaremos un enlace mágico para iniciar sesión sin contraseña.",
+    "creatingAccount": "Creando tu cuenta...",
+    "signingUp": "Registrando...",
+    "signingIn": "Iniciando sesión...",
+    "sending": "Enviando...",
+    "updating": "Actualizando...",
+    "oAuth": {
+      "google": "Google",
+      "github": "GitHub",
+      "discord": "Discord",
+      "apple": "Apple"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "about": "Acerca de",
+    "login": "Iniciar Sesión"
+  },
+  "pages": {
+    "home": {
+      "title": "Bienvenido a SaaS Boilerplate",
+      "description": "Una plantilla lista para producción con tecnologías modernas"
+    },
+    "dashboard": {
+      "title": "Panel",
+      "welcome": "Bienvenido a tu panel"
+    }
+  }
+}

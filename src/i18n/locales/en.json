@@ -1,0 +1,71 @@
+{
+  "common": {
+    "appName": "SaaS Boilerplate",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "submit": "Submit",
+    "search": "Search"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Name",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "resetPassword": "Reset Password",
+    "sendResetLink": "Send Reset Link",
+    "updatePassword": "Update Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "magicLink": "Magic Link",
+    "sendMagicLink": "Send Magic Link",
+    "magicLinkSent": "Magic link sent! Please check your email and click the link to sign in.",
+    "passwordResetSent": "Password reset email sent! Please check your inbox and follow the instructions to reset your password.",
+    "emailConfirmationRequired": "Please check your email to confirm your account before signing in.",
+    "resendConfirmation": "Resend Confirmation Email",
+    "orContinueWith": "Or continue with",
+    "signInWithMagicLink": "Sign in with magic link",
+    "backToSignIn": "Back to Sign In",
+    "invalidResetToken": "Invalid or expired reset token. Please request a new password reset.",
+    "enterNewPassword": "Enter your new password below.",
+    "enterEmailForReset": "Enter your email address and we'll send you a link to reset your password.",
+    "enterEmailForMagicLink": "Enter your email address and we'll send you a magic link to sign in without a password.",
+    "creatingAccount": "Creating your account...",
+    "signingUp": "Signing up...",
+    "signingIn": "Signing in...",
+    "sending": "Sending...",
+    "updating": "Updating...",
+    "oAuth": {
+      "google": "Google",
+      "github": "GitHub",
+      "discord": "Discord",
+      "apple": "Apple"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "about": "About",
+    "login": "Login"
+  },
+  "pages": {
+    "home": {
+      "title": "Welcome to SaaS Boilerplate",
+      "description": "A production-ready starter template with modern technologies"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome to your dashboard"
+    }
+  }
+}
